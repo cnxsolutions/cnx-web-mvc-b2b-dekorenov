@@ -127,7 +127,7 @@ La plateforme a été conçue pour évoluer :
 ## 📄 Documentation Technique & SEO
 
 - [Architecture technique](docs/architecture/overview.md)
-- [Stratégie SEO](docs/seo/seo-strategy.md)
+- [Stratégie SEO](docs/architecture/seo-strategy.md)
 
 ---
 
