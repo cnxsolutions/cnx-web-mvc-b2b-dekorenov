@@ -15,7 +15,7 @@ dans la **marbrerie, la pierre naturelle et la rénovation**, combinant :
 > Captures issues de l’interface publique (données sensibles non exposées)
 
 ![Accueil](docs/screenshots/homepage.png)
-![Catalogue marbre](docs/screenshots/Capture d'écran 2025-12-19 034110.png)
+![Catalogue marbre](docs/screenshots/produits.png)
 ![Espace professionnel](docs/screenshots/b2b.png)
 
 ---
